@@ -56,7 +56,6 @@ Le code-source de Ch@b'net peut être téléchargeé en ligne de commandes .
 
         "start https://realeses.chabnet.repl.co/source-code/selecter.msi", "gio open https://realeses.chabnet.repl.co/source-code/selecter.html", "gio open https://realeses.chabnet.repl.co/source-code/selecter.html"
 
-
-
 .. raw:: html
-        <button>Hi</button>
+
+   <a href="https://chabnet.repl.co/downloads/"><button>Télécharger</button></a>
