@@ -58,4 +58,4 @@ Le code-source de Ch@b'net peut être téléchargeé en ligne de commandes .
 
 .. raw:: html
 
-   <button>Télécharger</button>
+   <br><a href="https://chabnet.repl.co/downloads/"><button>Télécharger Ch@b'net</button></a>
